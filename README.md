@@ -1,24 +1,5 @@
-# README
+# Widget World
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a very basic Rails site used for examples of deploying Rails with a variety of tools.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To see an example of it in action, check out the [Habitat, Rails, and Postgres in 3 Different Ways blog post](https://www.habitat.sh/blog/2017/08/habitat-rails-postgres-3-different-ways/)
